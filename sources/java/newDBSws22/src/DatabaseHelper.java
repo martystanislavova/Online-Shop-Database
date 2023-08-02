@@ -13,8 +13,8 @@ class DatabaseHelper {
     //private static final String DB_CONNECTION_URL = "jdbc:oracle:thin:@oracle-lab.cs.univie.ac.at:1521:lab";
     private static final String DB_CONNECTION_URL = "jdbc:oracle:thin:@oracle19.cs.univie.ac.at:1521:orclcdb"; 
 
-    private static final String USER = "a11922120"; //TODO: use a + matriculation number
-    private static final String PASS = "dbs22"; //TODO: use your password (default: dbs19)
+    private static final String USER = "user"; //TODO: use a + matriculation number
+    private static final String PASS = "pass"; //TODO: use your password (default: dbs19)
 
     // The name of the class loaded from the ojdbc14.jar driver file
     //private static final String CLASSNAME = "oracle.jdbc.driver.OracleDriver";
