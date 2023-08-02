@@ -1,0 +1,4 @@
+Das Front end kann durch Almighty erreicht werden: 
+https://wwwlab.cs.univie.ac.at/~martinao98/
+
+Die Datenbank wird mit Daten aus dem ausgeführten Java-Programm gefüllt
