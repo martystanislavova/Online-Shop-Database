@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 class HelperCSV {
-	public static final String angestellters = "/Users/martina/Desktop/Mart/Uni/DBS/NEW/MS 4/Java/Data/angestellter.csv";
-	public static final String artikeln = "/Users/martina/Desktop/Mart/Uni/DBS/NEW/MS 4/Java/Data/artikel.csv";
-	public static final String benutzern = "/Users/martina/Desktop/Mart/Uni/DBS/NEW/MS 4/Java/Data/benutzer.csv";
+	public static final String angestellters = "csv file path"; //TO DO
+	public static final String artikeln = "csv file path";
+	public static final String benutzern = "csv file path";
 	
 	public List<String[]> getData(String csv) {	
 		
